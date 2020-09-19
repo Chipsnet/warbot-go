@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/fatih/color"
+	"github.com/go-sharp/color"
 )
 
 // Version バージョン情報
